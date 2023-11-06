@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Calculator",
-    "slug": "calculator",
+    "slug": "Calculator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,13 +12,7 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "626e667b-391c-4efb-8241-56590a9bd574"
-      }
-    },
-    "owner": "nico_soft"
+    ]
   },
   "name": "Calculator"
 }
